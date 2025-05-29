@@ -36,6 +36,43 @@ A modern web application that leverages RAG (Retrieval Augmented Generation) tec
   - Real-time processing feedback
   - Dark mode support
 
+## Screenshots & Examples
+
+### Document Library
+![Dashboard](https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+Browse and manage your uploaded documents with detailed metadata and quick actions.
+
+### Document Upload
+![Upload Interface](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+Drag & drop interface for easy document uploads with real-time progress tracking.
+
+### Q&A Interface
+![Q&A Interface](https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+Intelligent document querying with context-aware answers.
+
+### Sample Q&A Interactions
+
+#### Example 1: Financial Report Analysis
+**Question:** "What was the company's revenue growth in 2023?"
+
+**Answer:** Based on the Annual Report 2023, the company achieved significant growth with an 18% increase in revenue compared to the previous year, reaching $450 million. This growth was observed across all divisions.
+
+*Sources: Page 1, Annual Report 2023*
+
+#### Example 2: Technical Specifications
+**Question:** "What are the memory specifications of the XPS-5000 model?"
+
+**Answer:** According to the product specifications, the XPS-5000 model supports DDR5 RAM with speeds up to 6400MHz and can accommodate a maximum capacity of 128GB. The system also features a 5nm processor with 12 cores and 24 threads.
+
+*Sources: Page 2, Product Specifications*
+
+#### Example 3: Research Findings
+**Question:** "What are the key findings regarding quantum error correction?"
+
+**Answer:** The research demonstrates a novel approach to error correction in quantum circuits that potentially increases qubit coherence time by a factor of 3. Experimental results confirm that the proposed algorithm reduces decoherence effects in a 50-qubit system under standard laboratory conditions. This has significant implications for quantum cryptography, as it could enable more robust quantum key distribution protocols.
+
+*Sources: Pages 5, 12, 24, Research Paper*
+
 ## Tech Stack
 
 - **Frontend**
